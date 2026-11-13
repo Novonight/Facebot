@@ -11,7 +11,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, BotCommand
 
 BOT_TOKEN = "9296393327:AAHD9TXAjCkBXRhaN4Oj1R63J3jqUd5aIgQ"
 OPENAI_API_KEY = "sk-9WGnK2UaxvuNIoCOvBVaoZ8IkpD91KWA"
-API_URL = "https://proxyapi.ru"
+API_URL = API_URL = "https://proxyapi.ru"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
