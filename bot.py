@@ -17,8 +17,8 @@ from aiogram.types import (
     BotCommand,
 )
 
-BOT_TOKEN = "sk-9WGnK2UaxvuNIoCOvBVaoZ8IkpD91KWA"
-OPENAI_API_KEY = "9296393327:AAHD9TXAjCkBXRhaN4Oj1R63J3jqUd5aIgQ"
+BOT_TOKEN = "9296393327:AAHD9TXAjCkBXRhaN4Oj1R63J3jqUd5aIgQ"
+OPENAI_API_KEY = "sk-9WGnK2UaxvuNIoCOvBVaoZ8IkpD91KWA"
 API_URL = "https://proxyapi.ru"
 
 bot = Bot(token=BOT_TOKEN)
